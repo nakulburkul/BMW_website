@@ -1,0 +1,6 @@
+{
+  "name": "BMW M4 Competition Showcase",
+  "description": "An interactive, ultra-premium landing page and banner showcase for the BMW M4 Competition Coupe, styled in plain black with DM Sans typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
